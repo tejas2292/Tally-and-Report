@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26895192719",
+    "project_id": "tally-faf37",
+    "storage_bucket": "tally-faf37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26895192719:android:38a233395753552f4096fa",
+        "android_client_info": {
+          "package_name": "com.example.tallyandreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26895192719-q93sbk71vf1qhst4ujp26asshpnl9fhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo5SMxwWTnhMM03eiDiV-P0vngiyXxLe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26895192719-q93sbk71vf1qhst4ujp26asshpnl9fhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
