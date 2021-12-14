@@ -57,6 +57,7 @@ public class AddEntry extends AppCompatActivity {
             addedBy = "Testing";
         }
         else if(tempAddedBy.equals("aaqib@gmail.com")){
+
             addedBy = "Aaqib Nazir";
         }
         else if(tempAddedBy.equals("vibhanshu@gmail.com")){
